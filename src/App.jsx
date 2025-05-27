@@ -5,7 +5,7 @@ import { useState } from "react";
 import Body from "./components/Body";
 import LandingPage from "./components/landingPage/LandingPage";
 import DashboardDetails from "./components/DashboardDetails/DashboardDetails";
-import Register from "./components/Register/register";
+import Register from "./components/Register/Register";
 import Partneroverview from "./components/Partner/Partneroverview";
 import Profile from "./components/Profile/Profile";
  
